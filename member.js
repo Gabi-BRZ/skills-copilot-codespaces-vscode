@@ -7,3 +7,4 @@ function skillsMember() {
         document.getElementById('skills').style.display = 'none';
     }
 }
+
